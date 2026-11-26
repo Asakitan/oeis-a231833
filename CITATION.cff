@@ -3,16 +3,16 @@ message: "Cite this public proof using the versioned report below."
 title: 'Majority-constrained colorings of a two-column zigzag path'
 authors:
   - family-names: "Chain.Ren"
-version: "1.0.0"
+version: "1.0.1"
 date-released: '2026-11-27'
 license: MIT
-url: https://github.com/Asakitan/oeis-a231833/releases/tag/proof-v1.0.0
+url: https://github.com/Asakitan/oeis-a231833/releases/tag/proof-v1.0.1
 repository-code: https://github.com/Asakitan/oeis-a231833
 preferred-citation:
   type: report
   title: 'Majority-constrained colorings of a two-column zigzag path'
   authors:
     - family-names: "Chain.Ren"
-  version: "1.0.0"
+  version: "1.0.1"
   year: 2026
-  url: https://github.com/Asakitan/oeis-a231833/blob/proof-v1.0.0/PROOF.md
+  url: https://github.com/Asakitan/oeis-a231833/blob/proof-v1.0.1/PROOF.md
